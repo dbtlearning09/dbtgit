@@ -21,3 +21,5 @@ sources:
             description: customer payment details
           - name: customer_address
             description: customer address details
+          - name: order_status
+            description: order status details          
