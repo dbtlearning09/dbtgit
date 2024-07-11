@@ -19,3 +19,5 @@ sources:
       tables:
           - name: payment
             description: customer payment details
+          - name: customer_address
+            description: customer address details
